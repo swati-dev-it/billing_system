@@ -7,7 +7,7 @@ Steps:
 
 Technologies Used:
 
-1. Vue version 3
+1. Vue 3
 2. Laravel 12
 3. Tailwind CSS
 4. Inertia JS
